@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author -Bamidele Adefolaju
+#Author -Wilson Kabiru
 
 i = 0
 for c in range(ord('a'), ord('a') - 1, -1):
